@@ -1,0 +1,16 @@
+fold,model,n,mismatch_n,mismatch_rate
+1,deep_fcn,878,0,0.0
+1,deep_lr,878,0,0.0
+1,deep_lgbm,878,0,0.0
+2,deep_fcn,878,0,0.0
+2,deep_lr,878,0,0.0
+2,deep_lgbm,878,0,0.0
+3,deep_fcn,879,0,0.0
+3,deep_lr,879,0,0.0
+3,deep_lgbm,879,0,0.0
+4,deep_fcn,878,0,0.0
+4,deep_lr,878,0,0.0
+4,deep_lgbm,878,0,0.0
+5,deep_fcn,877,0,0.0
+5,deep_lr,877,0,0.0
+5,deep_lgbm,877,0,0.0
