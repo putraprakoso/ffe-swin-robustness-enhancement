@@ -6,6 +6,8 @@ This repository contains a focused research pipeline using the **Freshness of th
 
 > **Research status:** Completed experiments on one publicly available dataset. Findings are exploratory; the repository does **not** establish real-world generalization or physical food safety. The linked GitHub repository is intended to remain private during manuscript preparation and blind review, pending the journal's disclosure rules.
 
+> **Capture-split audit (9 November 2026):** 1,560 of 4,390 held-out images (35.54%) share a parseable second-level capture timestamp and species-class folder with images in training or validation partitions. Three filenames have nonstandard timestamps. A restricted analysis on 2,827 test images with no matched timestamp retained Gamma Macro F1 gains of 1.98–3.07 percentage points under severe darkening. This is not a specimen-independent or retrained group-wise evaluation. See [capture-split audit](docs/CAPTURE_SPLIT_AUDIT.md).
+
 ## Highlights from saved results
 
 | Scenario / method | Swin + FCN Macro F1 | Swin + LR Macro F1 | Swin + LightGBM Macro F1 |
