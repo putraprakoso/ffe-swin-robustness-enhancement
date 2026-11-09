@@ -1,0 +1,7 @@
+fold,test_images,matching_capture_timestamp,unparseable_timestamp,no_matching_timestamp
+1,878,324,1,553
+2,878,333,1,544
+3,879,274,1,604
+4,878,331,0,547
+5,877,298,0,579
+Total,4390,1560,3,2827
